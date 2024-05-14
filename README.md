@@ -2,7 +2,7 @@
 
 # Portfolio Website (React)
 
-![image](https://github.com/angelgrod19/PortfoX/assets/135107962/96f7c7b4-33b6-4406-a943-095174331083)
+![image](https://github.com/angelgrod19/PortfoX/public/135107962/96f7c7b4-33b6-4406-a943-095174331083)
 
 Welcome to my **Portfolio Website (React)** GitHub repository! This repository contains the source code for my personal portfolio website built with React. Feel free to explore, learn, and use this as a starting point for your own React-based portfolio website.
 
@@ -18,11 +18,11 @@ Welcome to my **Portfolio Website (React)** GitHub repository! This repository c
 
 ## About
 
-![image](https://github.com/angelgrod19/PortfoX/assets/135107962/9c8827e7-85c7-497e-8459-a0845be94ea3)
+![image](https://github.com/angelgrod19/PortfoX/public/135107962/9c8827e7-85c7-497e-8459-a0845be94ea3)
 
 This portfolio website is built using React and is designed to showcase my skills, projects, and experience. It provides an interactive and visually appealing way for others to learn more about me and my work.
 
-![image](https://github.com/angelgrod19/PortfoX/assets/135107962/befa9436-9635-46fd-b08b-6280926809fe)
+![image](https://github.com/angelgrod19/PortfoX/public/135107962/befa9436-9635-46fd-b08b-6280926809fe)
 
 
 ## Features
@@ -40,7 +40,7 @@ To get started with this project, you can either clone the repository or fork it
 
 Before you begin, ensure you have met the following requirements:
 
-![image](https://github.com/angelgrod19/PortfoX/assets/135107962/37e8c1aa-422e-4015-9fb2-2220eb002896)
+![image](https://github.com/angelgrod19/PortfoX/public/135107962/37e8c1aa-422e-4015-9fb2-2220eb002896)
 
 - Node.js and npm installed on your development machine.
 
